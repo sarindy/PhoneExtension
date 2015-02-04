@@ -17,7 +17,7 @@ Public Class frmMain
             name = ""
             ' Loop and display.
             For Each row As DataRow In result
-                name = name & "Name= " & row(0) & "   Phone No. " & row(1) & vbCrLf
+                name = name & "Name = " & row(0) & vbCrLf & "Phone No. = " & row(1) & vbCrLf & "Email. = " & row(2) & vbCrLf
             Next
             MsgBox(name)
 

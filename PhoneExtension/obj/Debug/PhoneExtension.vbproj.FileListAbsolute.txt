@@ -8,3 +8,13 @@ C:\Users\sarindy\Documents\Olympic Project\Lab\PhoneExtension\PhoneExtension\obj
 C:\Users\sarindy\Documents\Olympic Project\Lab\PhoneExtension\PhoneExtension\obj\Debug\PhoneExtension.exe
 C:\Users\sarindy\Documents\Olympic Project\Lab\PhoneExtension\PhoneExtension\obj\Debug\PhoneExtension.xml
 C:\Users\sarindy\Documents\Olympic Project\Lab\PhoneExtension\PhoneExtension\obj\Debug\PhoneExtension.pdb
+C:\Users\sarindy-05007\Documents\GitHub\PhoneExtension\PhoneExtension\bin\Debug\PhoneExtension.exe.config
+C:\Users\sarindy-05007\Documents\GitHub\PhoneExtension\PhoneExtension\bin\Debug\PhoneExtension.exe
+C:\Users\sarindy-05007\Documents\GitHub\PhoneExtension\PhoneExtension\bin\Debug\PhoneExtension.pdb
+C:\Users\sarindy-05007\Documents\GitHub\PhoneExtension\PhoneExtension\bin\Debug\PhoneExtension.xml
+C:\Users\sarindy-05007\Documents\GitHub\PhoneExtension\PhoneExtension\obj\Debug\PhoneExtension.frmMain.resources
+C:\Users\sarindy-05007\Documents\GitHub\PhoneExtension\PhoneExtension\obj\Debug\PhoneExtension.Resources.resources
+C:\Users\sarindy-05007\Documents\GitHub\PhoneExtension\PhoneExtension\obj\Debug\PhoneExtension.vbproj.GenerateResource.Cache
+C:\Users\sarindy-05007\Documents\GitHub\PhoneExtension\PhoneExtension\obj\Debug\PhoneExtension.exe
+C:\Users\sarindy-05007\Documents\GitHub\PhoneExtension\PhoneExtension\obj\Debug\PhoneExtension.xml
+C:\Users\sarindy-05007\Documents\GitHub\PhoneExtension\PhoneExtension\obj\Debug\PhoneExtension.pdb

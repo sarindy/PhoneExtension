@@ -11,6 +11,7 @@
 
         myDataTable.Columns.Add("Name", System.Type.GetType("System.String"))
         myDataTable.Columns.Add("Number", System.Type.GetType("System.String"))
+        myDataTable.Columns.Add("Email", System.Type.GetType("System.String"))
         Dim myRow As DataRow
 
         
@@ -23,11 +24,24 @@
                     Try
                         currentRow = MyReader.ReadFields()
                         myRow = myDataTable.NewRow
-                        myRow("Name") = currentRow.GetValue(0)
-                        myRow("Number") = currentRow.GetValue(1)
+                        If currentRow.GetValue(0) = Nothing Then
+                            myRow("Name") = "N/A"
+                        Else
+                            myRow("Name") = currentRow.GetValue(0)
+                        End If
+                        If currentRow.GetValue(1) = Nothing Then
+                            myRow("Number") = "N/A"
+                        Else
+                            myRow("Number") = currentRow.GetValue(1)
+                        End If
+                        If currentRow.GetValue(2) = Nothing Then
+                            myRow("Email") = "N/A"
+                        Else
+                            myRow("Email") = currentRow.GetValue(2)
+                        End If
 
                         myDataTable.Rows.Add(myRow)
-                       
+
                     Catch ex As Microsoft.VisualBasic.
                                 FileIO.MalformedLineException
                         MsgBox("Line " & ex.Message &
